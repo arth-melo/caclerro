@@ -5,7 +5,7 @@ def subtracao(a, b):
     return a - b
 
 def multiplicacao(a, b):
-    return a + b  # ERRO: deveria multiplicar
+    return a * b  # ERRO: deveria multiplicar[FEITO]
 
 def divisao(a, b):
     return a / b
